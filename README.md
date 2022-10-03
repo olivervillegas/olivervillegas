@@ -12,6 +12,8 @@ I'm a computer science student at the University of Maryland, College Park who l
 
 - 📄 [`"Are We Overcomplicating Things?"`](https://girhub.com/olivervillegas/EE) Elementary academic paper I wrote comparing the performance of old-school ARIMA models against an LSTM recurrent neural network when forecasting stock market values.
 
+- 📱 [`/TerrapinGo`](https://github.com/olivervillegas/TerrapinGo) High-fidelity mobile app prototype in Kotlin for $30,000 SEPTA Transportation Accessibility Challenge, finishing as a semi-finalist.
+
 <!--
 **olivervillegas/olivervillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
