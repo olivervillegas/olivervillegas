@@ -10,7 +10,7 @@ I'm a computer science student at the University of Maryland, College Park who l
 
 - 🤖 [`RockvilleRobotics/Incredibots2019`](https://github.com/rockvillerobotics/Incredibots2019) Fully autonomous robot that my robotics team and I built and developed for international competition of 80+ teams, placing top 5 in the world.
 
-- 📄 [`"Are We Overcomplicating Things?"`](https://girhub.com/olivervillegas/EE) Elementary academic paper I wrote comparing the performance of old-school ARIMA models against an LSTM recurrent neural network when forecasting stock market values.
+- 📄 [`"Are We Overcomplicating Things?"`](https://github.com/olivervillegas/EE) Elementary academic paper I wrote comparing the performance of old-school ARIMA models against an LSTM recurrent neural network when forecasting stock market values.
 
 - 📱 [`/TerrapinGo`](https://github.com/olivervillegas/TerrapinGo) High-fidelity mobile app prototype in Kotlin for $30,000 SEPTA Transportation Accessibility Challenge, finishing as a semi-finalist.
 
