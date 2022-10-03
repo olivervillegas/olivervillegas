@@ -8,7 +8,7 @@ I'm a computer science student at the University of Maryland, College Park who l
 
 - 🎈 [`/TUFF`](https://github.com/Gidntsquia/TUFFcode) Upper-atmosphere research balloon that collects tension data to track air resistance and analyze collected data.
 
-- 🤖 [`RockvilleRobotics/Incredibots2019`](https://github.com/rockvillerobotics/Incredibots2019) Fully autonomous robot that my robotics team and I built and developed for international competetion of 80+ teams, placing top 5 in the world.
+- 🤖 [`RockvilleRobotics/Incredibots2019`](https://github.com/rockvillerobotics/Incredibots2019) Fully autonomous robot that my robotics team and I built and developed for international competition of 80+ teams, placing top 5 in the world.
 
 - 📄 [`"Are We Overcomplicating Things?"`](https://girhub.com/olivervillegas/EE) Elementary academic paper I wrote comparing the performance of old-school ARIMA models against an LSTM recurrent neural network when forecasting stock market values.
 
