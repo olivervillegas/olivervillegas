@@ -4,8 +4,6 @@ I'm a computer science student at the University of Maryland, College Park who l
 ### 👨‍💻 Check out some of my projects:
 - 🧩 [`/Autism`](https://github.com/olivervillegas/Autism) A web application using the Django Python framework, engineered dynamic backend software to ease client input.
 
-- 🏡 [`/FlippingAwesome`](https://github.com/olivervillegas/FlippingAwesome) Real estate investment potential and valuation analysis tool, data science driven.
-
 - 🎈 [`/TUFF`](https://github.com/Gidntsquia/TUFFcode) Upper-atmosphere research balloon that collects tension data to track air resistance and analyze collected data.
 
 - 🤖 [`RockvilleRobotics/Incredibots2019`](https://github.com/rockvillerobotics/Incredibots2019) Fully autonomous robot that my robotics team and I built and developed for international competition of 80+ teams, placing top 5 in the world.
