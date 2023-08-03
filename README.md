@@ -2,7 +2,7 @@
 I'm a computer science student at the University of Maryland, College Park who loves data science, real estate, and puppies!
 
 ### 👨‍💻 Check out some of my projects:
-- 🧩 [`/Autism`](https://github.com/olivervillegas/Autism) A web application using the Django Python framework, engineered dynamic backend software to ease client input.
+- 🧩 [`/NeurodiverCity`](https://github.com/olivervillegas/Autism) A web application using the Django Python framework, engineered dynamic backend software to ease client input.
 
 - 🎈 [`/TUFF`](https://github.com/Gidntsquia/TUFFcode) Upper-atmosphere research balloon that collects tension data to track air resistance and analyze collected data.
 
