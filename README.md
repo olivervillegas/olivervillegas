@@ -2,6 +2,10 @@
 I'm a computer science student at the University of Maryland, College Park who loves data science, real estate, and puppies!
 
 ### 👨‍💻 Check out some of my projects:
+- 📆 [`/ScheduleTerp`](https://github.com/olivervillegas/ScheduleTerp) A web application that finds the best possible UMD schedule for an upcoming semester.
+
+- 🧾 [`/IOU`](https://github.com/olivervillegas/IOU) Mobile app that allows users to track and split group expenses using receipt scanning technology.
+
 - 🧩 [`/NeurodiverCity`](https://github.com/olivervillegas/Autism) A web application using the Django Python framework, engineered dynamic backend software to ease client input.
 
 - 🎈 [`/TUFF`](https://github.com/Gidntsquia/TUFFcode) Upper-atmosphere research balloon that collects tension data to track air resistance and analyze collected data.
