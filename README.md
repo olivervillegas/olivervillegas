@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Oliver Villegas 
-I'm a computer science student at the University of Maryland, College Park who loves data science, real estate, and puppies!
+I'm a Data Engineer.
 
 ### 👨‍💻 Check out some of my projects:
 - 📆 [`/ScheduleTerp`](https://github.com/olivervillegas/ScheduleTerp) A web application that finds the best possible UMD schedule for an upcoming semester.
